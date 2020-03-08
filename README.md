@@ -1,2 +1,2 @@
-# exercicios_gerais
+# Exercécios Gerais
 Exercícios para treinar programação. 
