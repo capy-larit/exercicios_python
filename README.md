@@ -1,2 +1,8 @@
 # Exercícios Gerais
-Exercícios para treinar programação. 
+
+
+***
+
+> Nesse repositório você encontrará apenas exercícios desenvolvidos para aprendizado.
+  
+> Em Python ; ) 
